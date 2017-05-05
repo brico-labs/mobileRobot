@@ -1,0 +1,6 @@
+RobotMovil	KEYWORD1
+forward	KEYWORD2
+reverse	KEYWORD2
+rotate	KEYWORD2
+brake	KEYWORD2
+set_velocgiro	KEYWORD2
