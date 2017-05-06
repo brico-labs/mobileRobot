@@ -1,5 +1,7 @@
 RobotMovil
 ==========
+Inspirado en el trabajo de Félix Sánchez Tembleque https://github.com/brico-labs/ArduinoDCmotorDrivers
+
 
 Librería básica para empezar un programa para un robot móvil y programas de ejemplo
 
