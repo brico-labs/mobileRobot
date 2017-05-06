@@ -52,7 +52,7 @@
 
 
 #include <Arduino.h>
-#include "RobotMovil.h"
+#include "RobotMovil_.h"
 
 	/*	RobotMovil NombreRobot;
 			Crea un objeto (robot) con el patillaje del redBot de Sparkfun. 

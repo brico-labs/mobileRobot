@@ -80,8 +80,8 @@
 */
 
 
-#ifndef RobotMovil_h
-#define RobotMovil_h
+ #ifndef RobotMovil_
+ #define RobotMovil_
 
 class RobotMovil {
   public:  
